@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Bird Website</title>
+    <title>linkthebird</title>
     <style>
         /* Add your styles here */
         body {
@@ -44,30 +44,29 @@
                     <section>
                         <section>
                            
-                        </section>
+                        </section>                        
                         <section>
                             
                         </section>
                         <section>
                             <h2>YouTube Channel</h2>
-                            <p>Check out my bird's adventures on our YouTube channel!</p>
+                            <p>Check out my bird's adventures on my YouTube channel!</p>
                         
                             <!-- Add the link to your YouTube channel -->
-                            <a href="https://www.youtube.com/@Falcorite" target="_blank">Visit Our YouTube Channel</a>
+                            <a href="https://www.youtube.com/@Falcorite" target="_blank">Visit my YouTube Channel</a>
                         
-                        </section>
-                        
-                        <h2></h2>
-                        <p></p>
-                    
-                        <!DOCTYPE html>
-                        <html>
-                        <body>
+                        <section>
+
+
+<section>
+</section>
+<section></section> <h2>Bird Guessing Game</h2>
+              <!-- Add this link to navigate to the Bird Guessing Game page -->
+                <a href="Untitled-4.html">Play Bird Guessing Game</a>
                         
                         <h1></h1>
                         
                         <img src="IMG_20231209_172323.jpg" alt="IMG_20231209_172323.jpg" alt= "image" width="500" height="600">
-                        
                         </body>
                         </html>
                         
