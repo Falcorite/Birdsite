@@ -28,18 +28,31 @@
 <body>
 
     <header>
-        <h1>Your Bird's Name</h1>
+        <h1>Link</h1>
     </header>
-
     <main>
         <section>
-            <h2>About Your Bird</h2>
-            <p>Write a brief description of your bird and its unique characteristics.</p>
-        </section>
+            <h2>Link is a cute little green checked conure. And this site is a place to appreciate him</h2>
+            </section>
 
         <section>
-            <h2>Images</h2>
-            <p>Include some pictures of your bird to share its adorable moments.</p>
+            <h2></h2>
+            <p>
+                <section>
+                    <h2></h2>
+                    <p></p>
+                    <section>
+
+                        <h2>Images</h2>
+                        <p></p>
+                    
+                        <!-- Add the image tag with your bird's photo -->
+                        <img src="IMG_20231209_172323.jpg" alt="Your Bird Image">
+                    
+                    </section>
+                    
+                </section>
+                
             <!-- You can add image tags with your bird's photos -->
             <!-- Example: <img src="bird_image.jpg" alt="Your Bird"> -->
         </section>
