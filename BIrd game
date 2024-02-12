@@ -1,1 +1,4 @@
+git add .
+git commit -m "Initial commit for my bird website"
+git push origin main  # or your branch name
 
