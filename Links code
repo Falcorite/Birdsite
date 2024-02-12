@@ -42,12 +42,37 @@
                     <h2></h2>
                     <p></p>
                     <section>
-
-                        <h2>Images</h2>
+                        <section>
+                           
+                        </section>
+                        <section>
+                            
+                        </section>
+                        <section>
+                            <h2>YouTube Channel</h2>
+                            <p>Check out my bird's adventures on our YouTube channel!</p>
+                        
+                            <!-- Add the link to your YouTube channel -->
+                            <a href="https://www.youtube.com/@Falcorite" target="_blank">Visit Our YouTube Channel</a>
+                        
+                        </section>
+                        
+                        <h2></h2>
                         <p></p>
                     
+                        <!DOCTYPE html>
+                        <html>
+                        <body>
+                        
+                        <h1></h1>
+                        
+                        <img src="IMG_20231209_172323.jpg" alt="IMG_20231209_172323.jpg" alt= "image" width="500" height="600">
+                        
+                        </body>
+                        </html>
+                        
                         <!-- Add the image tag with your bird's photo -->
-                        <img src="IMG_20231209_172323.jpg" alt="Your Bird Image">
+                        <img src="_" alt="">
                     
                     </section>
                     
@@ -58,7 +83,10 @@
         </section>
 
         <!-- Add more sections for additional features like care tips, interesting facts, etc. -->
-
+        <section>
+        
+        </section>
+        
     </main>
 </body>
 </html>
